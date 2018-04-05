@@ -15,9 +15,12 @@ We find the labeling tool to label our dataset and after doing hard search we fi
 
 https://github.com/prabindh/euclid 
 # Step 4: Editing in obj.cfg, obj.data, obj.names files.
-After labeling, we have to make some changes the cfg file in the cfg directory in darknet and for doing this we have to choose our model. For example, for tiny-yolo.cfg, make copy and rename it as we like i.e) yolo-obj.cfg, then open it and edit 
+After labeling, we have to make some changes cfg file in the cfg directory in darknet and for doing this we have to choose our model. For example, for tiny-yolo.cfg, make copy and rename it as we like i.e) yolo-obj.cfg, then open and edit it.
+
 line 125, classes=2
+
 line 119, filter=35     # filters=(classes + 5)*5
+
 we will create data file and place it the data directory. The obj.data file look like this:   
 
 obj.data/
