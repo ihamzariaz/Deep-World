@@ -47,3 +47,4 @@ The resulting txt files have the full path of data with respect to darknet.
 # Step 6: Placing train.txt, test.txt, obj.data, obj.names, dataset and labels.
 Please place train.txt, test.txt, obj.data, obj.names, dataset,and labels in data directory of darket.
 Before this please make sure that our images and crosspounding labels must be in same directory.
+# Step 7: open your terminal and start training and testing the models
