@@ -16,7 +16,7 @@ file_test = open('test.txt', 'w')
 # Populate train.txt and test.txt
 counter = 1
 index_test = round(100 / percentage_test)
-for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.JPEG")):
+for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):
     title, ext = os.path.splitext(os.path.basename(pathAndFilename))
     #file = open(title + '.txt', 'w')
     #file.write('0 0.5 0.5 1 1')
@@ -24,7 +24,7 @@ for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.JPEG")):
 
     if counter == index_test:
         counter = 1
-        file_test.write(path_data + title + '.JPEG' + "\n")
+        file_test.write(path_data + title + '.jpg' + "\n")
     else:
-        file_train.write(path_data + title + '.JPEG' + "\n")
+        file_train.write(path_data + title + '.jpg' + "\n")
         counter = counter + 1
