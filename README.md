@@ -49,13 +49,16 @@ Please place train.txt, test.txt, obj.data, obj.names, dataset,and labels in dat
 Before this please make sure that our images and crosspounding labels must be in same directory.
 # Step 7: Down the weights of pretrained model
 Please download darknet19_448.conv.23 file and place in darkent's directory.
+https://github.com/KleinYuan/easy-yolo/blob/master/darknet19_448.conv.23
 # Step 8: Open your terminal and start training and testing the models
 To Start Training:
 
 ./darknet detector train cfg/obj.data cfg/yolo-obj.cfg darknet19_448.conv.23
+
 To testing
 
 ./darknet detector test cfg/obj.data cfg/yolo-obj.cfg yolo-obj.weights
+
 To apply our model to validates on videos
 
 ./darknet detector demo data/obj.data cfg/yolo-obj.cfg yolo-obj.weights video_name.file_format -i 0
