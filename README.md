@@ -28,7 +28,7 @@ names.obj/
 car
 back_side
 # Step 5: Path generation code for test and train datasets regarding to darknet.
-You need to run this code in the same directory which contains your dataset.
+You need to run the train_test_prep.py file in the same directory which contains your dataset.
 The resulting txt files have the full path of data with respect to darknet.
 # Step 6: Placing train.txt, test.txt, obj.data, obj.names, dataset and labels.
 Please place train.txt, test.txt, obj.data, obj.names, dataset,and labels in data directory of darket.
