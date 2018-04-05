@@ -15,7 +15,7 @@ We find the labeling tool to label our dataset and after doing hard search we fi
 
 https://github.com/prabindh/euclid 
 # Step 4: Editing in obj.cfg, obj.data, obj.names files.
-After labeling, we have to make some changes the cfg file in the cfg directory in darknet and for doing this we have to choose our model. For example, for tiny-yolo.cfg, make copy and rename it then open it and edit 
+After labeling, we have to make some changes the cfg file in the cfg directory in darknet and for doing this we have to choose our model. For example, for tiny-yolo.cfg, make copy and rename it as we like i.e) yolo-obj.cfg, then open it and edit 
 line 125, classes=2
 line 119, filter=35     # filters=(classes + 5)*5
 we will create data file and place it the data directory. The obj.data file look like this:   
@@ -47,4 +47,15 @@ The resulting txt files have the full path of data with respect to darknet.
 # Step 6: Placing train.txt, test.txt, obj.data, obj.names, dataset and labels.
 Please place train.txt, test.txt, obj.data, obj.names, dataset,and labels in data directory of darket.
 Before this please make sure that our images and crosspounding labels must be in same directory.
-# Step 7: open your terminal and start training and testing the models
+# Step 7: Down the weights of pretrained model
+Please download darknet19_448.conv.23 file and place in darkent's directory.
+# Step 8: Open your terminal and start training and testing the models
+To Start Training:
+
+./darknet detector train cfg/obj.data cfg/yolo-obj.cfg darknet19_448.conv.23
+To testing
+
+./darknet detector test cfg/obj.data cfg/yolo-obj.cfg yolo-obj.weights
+To apply our model to validates on videos
+
+./darknet detector demo data/obj.data cfg/yolo-obj.cfg yolo-obj.weights video_name.file_format -i 0
