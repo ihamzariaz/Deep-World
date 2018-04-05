@@ -10,6 +10,7 @@ OpenCv=1;
 Collect the data on which we want to train over network and images size is not an issue according to our experiences because we trained yolo_2 on 720*1280 resolution.
 # Step 3: Labeling Tool for annotation of data.
 We find the labeling tool to label our dataset and after doing hard search we find and edit this tool. This labeling tool can label the multi classes and it is so much user friendly. The following link will explain how to use it.
+
 https://github.com/prabindh/euclid 
 # Step 4: Editing in obj.cfg, obj.data, obj.names files.
 After labeling, we have to make some changes the cfg file in the cfg directory in darknet and for doing this we have to choose our model. For example, for tiny-yolo.cfg, make copy and rename it then open it and edit 
