@@ -2,7 +2,7 @@
 # Research Topics:
 1) Deep learning solution for autonomous vehicle
 
-   1.1) Darknet based car detection: Git project link
+   1.1) Darknet based car detection: https://github.com/ihamzariaz/Research_iNESlab
    
    1.2) Darknet based segmentation: Git project link
    
