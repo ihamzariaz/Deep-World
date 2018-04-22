@@ -21,11 +21,79 @@ It is coming soon...
 # Coursework:
 The coursework before joining the lab.
 
-1) Digital Image processing 
+1) Linear Algebra
 
-2) Artificial Neural Networks
+2) Calculus
 
-3) CS231n from stanford university.
+3) Ordinary differential equations
+
+4) Digital Image processing 
+
+5) Artificial Neural Networks
+
+6) CS231n from stanford university.
 
 #  Useful link
+1) Installation of ubuntu(Linux) operating system as a dual boot. Here you can find the video related to it.
+
+https://www.youtube.com/watch?v=qNeJvujdB-0
+
+2) Installing useful libraries to start machine learning.
+
+ 2.1) Opencv 
+ 
+ https://github.com/Lab930boss/Install-OpenCV
+ 
+ 2.2) Tensorflow 
+ 
+ https://www.tensorflow.org/install/install_linux
+ 
+ 2.3) GPU setup
+ 
+ https://github.com/Lab930boss/DnnSetup
+ 
+ 2.4) Keras
+ 
+ https://keras.io/
+ 
+ 2.5) Or we can install all the important libraries by installing Anaconda python in your operating system.
+ 
+ 2.6) Darknet
+ 
+ https://pjreddie.com/darknet/
+ 
+ https://www.linuxhelp.com/how-to-install-python-anaconda-in-ubuntu-16-04/
+
+3) Different Networks, Architectures, Annotation tools, various experimental projects, Datasets etc
+
+https://github.com/Lab930boss/awesome-semantic-segmentation
+
 # Reference papers.
+1) First time CNN introdced in the following paper.
+
+http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+
+2) VGGNet 16 or 19
+
+https://arxiv.org/pdf/1409.1556.pdf
+
+3) R-CNN, Fast R-CNN, faster R-CNN, and Mask R-CNN respectively.
+ 
+https://arxiv.org/pdf/1311.2524.pdf
+
+https://arxiv.org/pdf/1504.08083.pdf
+
+https://arxiv.org/pdf/1506.01497.pdf
+
+https://arxiv.org/pdf/1703.06870.pdf
+
+4) YOLO
+
+https://arxiv.org/pdf/1506.02640.pdf
+
+5) Semantic Segmantation (Segnet)
+
+https://arxiv.org/pdf/1511.00561.pdf
+
+https://arxiv.org/pdf/1704.06857.pdf
+
