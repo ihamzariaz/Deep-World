@@ -7,11 +7,12 @@
    1.2) Darknet based segmentation: Git project link
    
 2) Pill detection and recognition
+
    1.1) For pill detection we'll follow the following link: https://github.com/Lab930boss/Pill
    
    1.2) Complete project including detection and recognition.
 # Lab's Projects:
-VggNet implementation using Tensorflow and Keras.
+1) VggNet implementations using Tensorflow and Keras. I conducted different experiments and all the details is present in the following link of github: https://github.com/ihamzariaz/iNES_lab_projects
 
 # Lab Seminars:
 1) Introduction to Artificial intelligence(Deep Learning Neural Network): the google drive link of presentation is following
