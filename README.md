@@ -73,15 +73,19 @@ The coursework before joining the lab.
    https://github.com/Lab930boss/awesome-semantic-segmentation
 
 # Reference papers.
-1) First time CNN introdced in the following paper.
+1) First time CNN introduced in the following paper.
 
    http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
+   
+2) Localization and Detection.
 
-2) VGGNet 16 or 19
+https://arxiv.org/pdf/1312.6229v4.pdf
+
+3) VGGNet 16 or 19
 
    https://arxiv.org/pdf/1409.1556.pdf
 
-3) R-CNN, Fast R-CNN, faster R-CNN, and Mask R-CNN respectively.
+4) R-CNN, Fast R-CNN, faster R-CNN, and Mask R-CNN respectively.
  
    https://arxiv.org/pdf/1311.2524.pdf
 
@@ -91,11 +95,11 @@ The coursework before joining the lab.
 
    https://arxiv.org/pdf/1703.06870.pdf
 
-4) YOLO
+5) YOLO
 
    https://arxiv.org/pdf/1506.02640.pdf
 
-5) Semantic Segmantation (Segnet)
+6) Semantic Segmantation (Segnet)
 
    https://arxiv.org/pdf/1511.00561.pdf
 
