@@ -79,7 +79,7 @@ The coursework before joining the lab.
    
 2) Localization and Detection.
 
-https://arxiv.org/pdf/1312.6229v4.pdf
+   https://arxiv.org/pdf/1312.6229v4.pdf
 
 3) VGGNet 16 or 19
 
