@@ -4,7 +4,7 @@
 
    1.1) Darknet based car detection: https://github.com/ihamzariaz/Research_iNESlab
    
-   1.2) Darknet based segmentation: Git project link
+   1.2) Darknet based segmentation: https://github.com/ihamzariaz/Solo
    
 2) Pill detection and recognition
 
@@ -13,6 +13,7 @@
    1.2) Complete project including detection and recognition.
 # Lab's Projects:
 1) VggNet implementations using Tensorflow and Keras. I conducted different experiments and all the details is present in the following link of github: https://github.com/ihamzariaz/iNES_lab_projects
+2) Segnet Implementation in Tensorflow with camvid dataset.https://github.com/ihamzariaz/Segnet_tensorflow
 
 # Lab Seminars:
 1) Introduction to Artificial intelligence(Deep Learning Neural Network): the google drive link of presentation is following
@@ -35,7 +36,9 @@ The coursework before joining the lab.
 
 5) Artificial Neural Networks
 
-6) CS231n from stanford university.
+6)Convolutional Neural Networks by deeplearning.ai
+
+7) CS231n from stanford university.
 
 #  Useful link
 1) Installation of ubuntu(Linux) operating system as a dual boot. Here you can find the video related to it.
