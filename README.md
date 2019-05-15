@@ -20,9 +20,9 @@
 
 https://drive.google.com/open?id=1p3e41QaYfBuGmNktb7lgFM-oBdPmpZlQ
 
-2) Segmentation:
+2) RNNs:
 
-It is coming soon...
+https://drive.google.com/file/d/1etk5psjQXwf0me30rb2yJq7jBGXkEiGS/view?usp=sharing
 # Coursework:
 The coursework before joining the lab.
 
@@ -71,6 +71,9 @@ The coursework before joining the lab.
  
       https://pjreddie.com/darknet/
       
+ 2.7) Java editor
+ Netbeans: https://netbeans.org/
+ 
 3) Different Networks, Architectures, Annotation tools, various experimental projects, Datasets etc
 
    https://github.com/Lab930boss/awesome-semantic-segmentation
@@ -107,4 +110,15 @@ The coursework before joining the lab.
    https://arxiv.org/pdf/1511.00561.pdf
 
    https://arxiv.org/pdf/1704.06857.pdf
+   
+   https://github.com/zhixuhao/unet
+   
+   https://arxiv.org/pdf/1505.04597.pdf
+   
+7) Different applications.
+DenseNets: https://arxiv.org/pdf/1608.06993.pdf
+ResNets: https://arxiv.org/pdf/1512.03385.pdf
+GoogleNet: https://arxiv.org/pdf/1409.4842.pdf
+GANs: https://arxiv.org/pdf/1411.1784.pdf, https://arxiv.org/pdf/1811.08295.pdf
+
 
