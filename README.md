@@ -72,16 +72,17 @@ The coursework before joining the lab.
       https://pjreddie.com/darknet/
       
  2.7) Java editor
+ 
  Netbeans: https://netbeans.org/
- 
- 3) NMT(Neural machine translation)
- 
- https://github.com/tensorflow/nmt
  
 3) Different Networks, Architectures, Annotation tools, various experimental projects, Datasets etc
 
    https://github.com/Lab930boss/awesome-semantic-segmentation
+   
+4) NMT(Neural machine translation)
 
+   https://github.com/tensorflow/nmt
+   
 # Reference papers.
 1) First time CNN introduced in the following paper.
 
