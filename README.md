@@ -83,6 +83,10 @@ The coursework before joining the lab.
 
    https://github.com/tensorflow/nmt
    
+5) ML-overview with related implementations by @ eriklindernoren
+
+   https://github.com/eriklindernoren
+   
 # Reference papers.
 1) First time CNN introduced in the following paper.
 
