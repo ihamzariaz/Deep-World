@@ -87,6 +87,8 @@ The coursework before joining the lab.
 
    https://github.com/eriklindernoren
    
+6) GANs https://github.com/nashory/gans-awesome-applications
+   
 # Reference papers.
 1) First time CNN introduced in the following paper.
 
