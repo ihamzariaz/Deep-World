@@ -40,6 +40,8 @@ The coursework before joining the lab.
 
 7) CS231n from stanford university.
 
+8) http://courses.d2l.ai/berkeley-stat-157/index.html?fbclid=IwAR3hmUXPALbgg5MlGmw7yiVuYnJaIu4D-dUWBZouNIZF0hGRDv3nhUtmmbw
+
 #  Useful link
 1) Installation of ubuntu(Linux) operating system as a dual boot. Here you can find the video related to it.
 
