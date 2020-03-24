@@ -92,6 +92,8 @@ The coursework before joining the lab.
 6) GANs https://github.com/nashory/gans-awesome-applications
 
 7) https://github.com/d2l-ai/d2l-en?fbclid=IwAR3Z81SJPYCaihbmVkDuh7SLJspr8kADIPVoIGs1m1h-fRJJ9o6qb-FLn4s
+
+8) https://github.com/tdeboissiere/DeepLearningImplementations
    
 # Reference papers.
 1) First time CNN introduced in the following paper.
