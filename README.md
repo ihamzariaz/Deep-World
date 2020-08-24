@@ -94,6 +94,10 @@ The coursework before joining the lab.
 7) https://github.com/d2l-ai/d2l-en?fbclid=IwAR3Z81SJPYCaihbmVkDuh7SLJspr8kADIPVoIGs1m1h-fRJJ9o6qb-FLn4s
 
 8) https://github.com/tdeboissiere/DeepLearningImplementations
+
+9) https://github.com/zju3dv
+
+10) https://research.fb.com/videos/audio-and-gaze-driven-facial-animation-of-codec-avatars/
    
 # Reference papers.
 1) First time CNN introduced in the following paper.
