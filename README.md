@@ -98,6 +98,8 @@ The coursework before joining the lab.
 9) https://github.com/zju3dv
 
 10) https://research.fb.com/videos/audio-and-gaze-driven-facial-animation-of-codec-avatars/
+
+11) https://github.com/mhagiwara/100-nlp-papers
    
 # Reference papers.
 1) First time CNN introduced in the following paper.
